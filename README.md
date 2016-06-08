@@ -1,3 +1,7 @@
-# articles
+# utf8-articles-law
 
-This archive includes a mastered article on Preditory Gang Stalking as seen through the eyes of a citizen of rural Ontario, Canada.
+This archive includes articles on law pertaining to information and communications technology.
+
+Made with ♥ by [Jason McVeigh](mailto:jmcveigh@outlook.com) of General Software Contracting
+
+_I ♥ what I do and I hope you do too!_
